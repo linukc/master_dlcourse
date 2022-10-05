@@ -1,4 +1,4 @@
-# mipt_master_dlcourse
+# master_dlcourse
 Ноутбуки для студентов по курсу DL frameworks.
 
 1) **Особенности библиотек глубокого обучения (Pytorch / Mindspore)**
