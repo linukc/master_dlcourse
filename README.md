@@ -20,3 +20,6 @@ References:
 References:
 
 [1] [Torchop](https://github.com/Renovamen/torchop)
+
+4) **Video Classification with RNN**
+
