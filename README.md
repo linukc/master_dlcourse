@@ -21,6 +21,7 @@
 
 1) **Библиотека jax**
 
-2) **Super Resolution + Flax**
+2) **Super Resolution + Flax**  
+[SR Metrics](https://videoprocessing.ai/metrics/ways-of-cheating-on-popular-objective-metrics.html) 
 
 3) **TorchScript. c++/CUDA -> python**
