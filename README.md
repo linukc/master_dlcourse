@@ -25,3 +25,7 @@
 [SR Metrics](https://videoprocessing.ai/metrics/ways-of-cheating-on-popular-objective-metrics.html) 
 
 3) **TorchScript. c++/CUDA -> python**
+
+4) **Обнаружение объектов на изображениях** (livecoding)
+
+5) **Human kepoints detection + heatmaps**
