@@ -28,4 +28,6 @@
 
 4) **Обнаружение объектов на изображениях** (livecoding)
 
-5) **Human kepoints detection + heatmaps**
+5) **YolactEdge** быстрый instance сегментатор для видео
+
+6) **Human kepoints detection + heatmaps**
