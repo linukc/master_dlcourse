@@ -31,3 +31,5 @@
 5) **YolactEdge** быстрый instance сегментатор для видео (livecoding)
 
 6) **Human kepoints detection + heatmaps**
+
+7) **Multiple objects tracking**
