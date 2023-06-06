@@ -35,3 +35,5 @@
 7) **Multiple objects tracking**
 
 8) **VAE**
+
+9) **GANs**
