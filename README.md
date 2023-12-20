@@ -43,3 +43,20 @@
 11) **Difussion model**
 
 12) **Энкодеры задач**
+
+### 3 семестр:
+
+Лабораторная работа 1 - Post Training Quantization (PTQ)
+
+Лабораторная работа 2 - Quantization Aware Training (QAT)
+
+Лабораторная работа 3 - Binary Neural Network (на примере соревнования https://github.com/ilyazhara/BSRC-2023)
+
+Лабораторная работа 4 - LLM quantization
+
+Лабораторная работа 5 - TensorRT
+
+Лабораторная работа 6 - Pruning
+
+Лабораторная работа 7 - Knowledge distillation
+
